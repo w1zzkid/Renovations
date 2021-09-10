@@ -5,11 +5,15 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
   text-align: center;
-  color: #fff;
+  color: rgb(238, 232, 232);
   line-height: 1.5;
   letter-spacing: 1px;
 }
 
+input,
+button {
+  color: black;
+}
 .navbar {
   background: #131313;
   height: 80px;
